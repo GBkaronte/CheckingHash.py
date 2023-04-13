@@ -1,7 +1,5 @@
 # CheckingHash.py
 
-CheckingHash.py
-
 Open source hecho en python3 con las librerias hashlib y os
 
 //Debes descargar en tu pc ambas librerias
